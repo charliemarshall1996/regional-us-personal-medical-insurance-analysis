@@ -12,7 +12,7 @@ The problem to address is understanding how regional differences impact insuranc
 
 ### The Goal
 
-The goal is to quantify the impact of regional factors on insurance charges and to identify if certain regions are more prone to higher charges and why. Success would be measured by the ability to predict insurance charges based on regional data accurately and to identify actionable regional characteristics that influence costs.
+The goal is to quantify the impact of regional factors on insurance charges and to identify if certain regions are more prone to higher charges and why.
 
 ### Potential Actionable Outcomes
 
